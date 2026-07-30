@@ -1,5 +1,4 @@
-Target Ad Live for STB configuration
-
+Target Ad
 Table of Contents
 Introduction
 NTVBE base solution
