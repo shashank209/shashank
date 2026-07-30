@@ -1,4 +1,4 @@
-Target Ad Live for STB conf
+Target Ad Live for STB configuration
 
 Table of Contents
 Introduction
