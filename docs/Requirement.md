@@ -1,4 +1,4 @@
-Target Ad Live (for STB)
+Target Ad Live
 
 Table of Contents
 Introduction
