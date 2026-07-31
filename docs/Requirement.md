@@ -1,6 +1,4 @@
 Target Ad
-Table of Contents
-Introduction
 NTVBE base solution
 Server locations
 Target Ad proxy TAP
