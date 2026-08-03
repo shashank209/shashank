@@ -1,2 +1,6 @@
+# Target Ad Live Requirements
+
+Source Document:
 https://github.com/user-attachments/files/30454495/Target.Ad.Live.for.STB.pdf
-#requirement
+
+analyze this requirement document and generate manual test cases.
