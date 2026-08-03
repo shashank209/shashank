@@ -88,8 +88,4 @@ The new banner field ImageSize should be ignored by older client versions and sh
 problems. 
 Without precautions it may occur that older clients would show a multi-banner SL (TVO swimlane) 
 using the single "wide" banner layout. 
-This shall be avoided as follows
-The new TVO swimlane will (at first) not be configured on the hub, only on the shop page. 
-The V5/V6 client version that implements the Swimlane based shop must also include this multi-banner SL function. 
-With this approach no older client will receive or use the TVO swimlane. 
 
