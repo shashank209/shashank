@@ -1,4 +1,4 @@
-Banner swinlane Specs:
+
 TVO Swimlane using 'small banners'
 Status for BEP: Analysis complete, ready for refinement.
 The banner functionality is a versatile tool on the NTE2 Hub. Today only 'marketing' banners are 
